@@ -1,0 +1,1 @@
+Ten projekt to znana gra Memo, w której zakryte karty należy odsłaniać parami tak, aby obie z kart miały ten sam symbol. Jeśli symbole były takie same, obie karty odkłada się na stos obok. W przeciwnym razie karty odkładamy na miejsce. Gra kończy się po sparowaniu wszystkich kart.
